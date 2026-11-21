@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="HAYM gifts and group orders illustration">
+  <rect width="900" height="700" fill="#f3e8db"/>
+  <circle cx="450" cy="340" r="245" fill="#6e1b2e" opacity="0.09"/>
+  <circle cx="450" cy="340" r="190" fill="none" stroke="#6e1b2e" stroke-opacity="0.16" stroke-width="2"/>
+
+  <rect x="285" y="230" width="330" height="350" rx="18" fill="#6e1b2e"/>
+  <path d="M340 230 Q450 160 560 230" fill="none" stroke="#fbf9f6" stroke-width="14" stroke-linecap="round"/>
+  <rect x="415" y="230" width="70" height="350" fill="#f3e8db" opacity="0.9"/>
+  <rect x="285" y="375" width="330" height="70" fill="#f3e8db" opacity="0.9"/>
+  <path d="M450 230 Q400 175 375 195 Q360 225 450 230 Zm0 0 Q500 175 525 195 Q540 225 450 230 Z" fill="#fbf9f6" opacity="0.95"/>
+
+  <text x="450" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" letter-spacing="12" fill="#6e1b2e">HAYM / GIFTS</text>
+</svg>

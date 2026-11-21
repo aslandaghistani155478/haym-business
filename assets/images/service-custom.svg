@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="HAYM custom products illustration">
+  <rect width="900" height="700" fill="#f3e8db"/>
+  <circle cx="450" cy="340" r="245" fill="#6e1b2e" opacity="0.09"/>
+  <circle cx="450" cy="340" r="190" fill="none" stroke="#6e1b2e" stroke-opacity="0.16" stroke-width="2"/>
+
+  <path d="M300 200 L370 165 Q450 215 530 165 L600 200 L660 290 L600 330 L570 295 L570 575 Q450 605 330 575 L330 295 L300 330 L240 290 Z" fill="#6e1b2e"/>
+  <path d="M370 165 Q450 215 530 165" fill="none" stroke="#fbf9f6" stroke-opacity="0.45" stroke-width="6"/>
+  <circle cx="450" cy="385" r="78" fill="#f3e8db" opacity="0.94"/>
+  <text x="450" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#6e1b2e">H</text>
+
+  <text x="450" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" letter-spacing="12" fill="#6e1b2e">HAYM / CUSTOM</text>
+</svg>

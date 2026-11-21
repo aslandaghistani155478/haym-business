@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="HAYM apparel illustration">
+  <rect width="900" height="700" fill="#f3e8db"/>
+  <circle cx="450" cy="340" r="245" fill="#6e1b2e" opacity="0.09"/>
+  <circle cx="450" cy="340" r="190" fill="none" stroke="#6e1b2e" stroke-opacity="0.16" stroke-width="2"/>
+
+  <path d="M275 215 Q450 140 625 215 L700 330 L645 385 L600 345 L600 575 Q450 610 300 575 L300 345 L255 385 L200 330 Z" fill="#201e1d"/>
+  <path d="M330 212 Q450 140 570 212 Q450 272 330 212 Z" fill="#fbf9f6"/>
+  <path d="M415 250 L415 355 M485 250 L485 355" stroke="#e9d8c6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M355 460 Q450 495 545 460 L545 530 Q450 560 355 530 Z" fill="#fbf9f6" opacity="0.07"/>
+
+  <text x="450" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" letter-spacing="12" fill="#6e1b2e">HAYM / APPAREL</text>
+</svg>
